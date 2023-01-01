@@ -1,0 +1,19 @@
+div {
+    color:white;
+    background-color: red;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+
+* {
+    background-color: white;
+}
+
+* {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
