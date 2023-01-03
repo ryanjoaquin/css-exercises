@@ -10,8 +10,12 @@ div {
     background-color: white;
 }
 
+
+/* comment out human words */
+
+
 * {
-    background-color: black;
+    background-color: white;
 }
 
 h1 {
