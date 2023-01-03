@@ -18,3 +18,17 @@ This will help you further practice adding classes and using class selectors, so
 - Does each element have a unique class name?
 - Did you use the grouping selector for styles that both elements share?
 - Did you make separate rules for the styles unique to each element?
+
+/* 
+- give two elements unique class names
+- add rules for styles that BOTH elements share
+- add rules for styles that are UNIQUE in each element.
+
+- samesies
+Same font sizes!
+
+- differences
+Left button = Black background + White font
+Right Button = Yellow background + Black Font
+
+*/

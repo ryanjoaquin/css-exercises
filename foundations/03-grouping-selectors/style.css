@@ -1,0 +1,14 @@
+.left-button, /* don't forget the comma when selecting multiple classes, ryan*/
+.right-button {
+    font-size: 28px;
+}
+
+.left-button {
+    color: white;
+    background-color: black;
+}
+
+.right-button {
+    color: black;
+    background-color: pink;
+}
